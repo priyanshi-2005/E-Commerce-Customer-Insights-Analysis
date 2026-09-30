@@ -2,7 +2,7 @@
 
 SQL analysis of the public Olist e-commerce dataset: about 100,000 orders from a Brazilian online marketplace.
 
-**Aaditya Rathi**
+**Aaditya Rathi** • **Priyanshi Agarwal**
 
 The app is for product, finance, and analyst questions. There are 6 topics and 90 questions. Each answer is a short dashboard — a few numbers, a chart, and a table — with the SQL query shown underneath.
 
